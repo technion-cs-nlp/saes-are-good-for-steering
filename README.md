@@ -1,5 +1,5 @@
 
-# SAEs Are Good for Steering -- If You Select the Right Features
+# SAEs Are Good for Steering - If You Select the Right Features
 
 [Website](https://technion-cs-nlp.github.io/saes-are-good-for-steering/) | [Paper](https://arxiv.org/abs/2505.20063)
 
